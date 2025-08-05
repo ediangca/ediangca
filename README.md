@@ -3,7 +3,7 @@
   <img height="150" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ebrahim, Just Call me Ebs!</h1>
+<h1 align="center">👋 I'm Ebrahim, Just Call me Ebs!</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 - 👯 I’m looking to collaborate on **any project**
