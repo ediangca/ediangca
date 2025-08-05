@@ -4,7 +4,12 @@
 </div>
 
 <h1 align="center">👋 I'm Ebrahim, Just Call me Ebs!</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">
+  <marquee behavior="scroll" direction="left">
+    A Passionate Full-Stack Developer
+  </marquee>
+</h3>
+
 
 - 👯 I’m looking to collaborate on **any project**
 
