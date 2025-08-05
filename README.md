@@ -1,7 +1,9 @@
 
+<!--
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif"  />
 </div>
+-->
 
 <h1 align="center">👋 I'm Ebrahim, Just Call me Ebs!</h1>
 <h3 align="center">
